@@ -53,5 +53,4 @@ I am a Student, Designer, Developer, And also Sometime Volunteer !!!
 
   <br>
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
-
 </div>
