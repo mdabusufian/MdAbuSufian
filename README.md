@@ -48,7 +48,7 @@ I am a Student, Designer, Developer, And also Sometime Volunteer !!!
   
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://<mdabusufian990>.glitch.me/pixel.svg" />`
 </p>
 
 <div align="center">
