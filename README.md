@@ -7,10 +7,10 @@
 
 
 I am a Student, Designer, Developer, And also Sometime Volunteer !!!
-- 🔭  I'm currently Working on  and Web Development!
-- 🌱  I'm currently learning Java, Python, CSS, JavaScript, Android Studio and Many More.
-- 👯  I'm looking to collaborate with other Developers.
-- 🥅  2023 goals: to be an entry level Android developer.
+- 🔭  I'm currently Working on  Data Science!
+- 🌱  I'm currently learning Java, Python, R, CSS, JavaScript, React and Many More.
+- 👯  I'm looking to collaborate with other Data Scientist.
+- 🥅  2023 goals: to be an entry level Data Scientist.
 - 🌩️  Fun fact: I love to play football, read books, travel, games, design.
 - ✨  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
