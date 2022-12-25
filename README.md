@@ -6,9 +6,9 @@
 ### 😃 About Me:
 
 
-I am a Student, Designer, Developer, And also Sometime Volunteer !!!
+I am a Student, Designer, Developer, And also Sometime Volunteer !!!!
 - 🔭  I'm currently Working on  Data Science!
-- 🌱  I'm currently learning Java, Python, R, CSS, JavaScript, React and Many More.
+- 🌱  I'm currently learning Java, Python, R, CSS, Laravel JavaScript, React and Many More.
 - 👯  I'm looking to collaborate with other Data Scientist.
 - 🥅  2023 goals: to be an entry level Data Scientist.
 - 🌩️  Fun fact: I love to play football, read books, travel, games, design.
