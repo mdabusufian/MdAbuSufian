@@ -6,7 +6,10 @@
 ### 😃 About Me:
 
 
+
 I am a Student, Designer, Developer, And also Sometime Volunteer !!!!
+I am someone who takes work ethics very seriously. I am honest in my position. Always try to make my world peaceful & beautiful. I am also an enthusiastic, self-motived, reliable, responsible and hard-working person. 
+  
 - 🔭  I'm currently Working on  Data Science!
 - 🌱  I'm currently learning Java, Python, R, CSS, Laravel JavaScript, React and Many More.
 - 👯  I'm looking to collaborate with other Data Scientist.
