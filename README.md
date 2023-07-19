@@ -10,10 +10,10 @@
 I am a Student, Designer, Developer, And also Sometime Volunteer !!!!
 I am someone who takes work ethics very seriously. I am honest in my position. Always try to make my world peaceful & beautiful. I am also an enthusiastic, self-motived, reliable, responsible and hard-working person. 
   
-- 🔭  I'm currently Working on  Data Science!
-- 🌱  I'm currently learning Java, Python, R, CSS, Laravel JavaScript, React and Many More.
-- 👯  I'm looking to collaborate with other Data Scientist.
-- 🥅  2023 goals: to be an entry level Data Scientist.
+- 🔭  I'm currently working as Cyber Security analyst!
+- 🌱  I'm currently learning Python, R, CSS, Laravel JavaScript, React and Many More.
+- 👯  I'm looking to collaborate with other Cyber Security Experts.
+- 🥅  2023 goals: to be an entry-level Cyber Security Expert.
 - 🌩️  Fun fact: I love to play football, read books, travel, games, design.
 - ✨  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
